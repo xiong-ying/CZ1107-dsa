@@ -1,5 +1,5 @@
 # CZ1107 Data Structures and Algorithms
-2022.06 @ Nanyang Technological University
+2021.06 @ Nanyang Technological University
 
 ## Content
 7 assignment questions
